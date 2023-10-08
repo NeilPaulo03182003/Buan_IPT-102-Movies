@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Buan_IPT102_Movies_SelfApplication.props" />
+</Project>

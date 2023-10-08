@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buan_IPT102_Movies_SelfApplication", "Buan_IPT102_Movies_SelfApplication.csproj", "{BE9BE45B-4C35-4AEE-8F14-19C7A87131F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE9BE45B-4C35-4AEE-8F14-19C7A87131F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE9BE45B-4C35-4AEE-8F14-19C7A87131F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE9BE45B-4C35-4AEE-8F14-19C7A87131F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE9BE45B-4C35-4AEE-8F14-19C7A87131F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {537ACFC6-7DA2-4576-ABDC-852C08A4E46A}
+	EndGlobalSection
+EndGlobal
